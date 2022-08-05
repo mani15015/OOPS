@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_multiple_inheri", "Student_multiple_inheri\Student_multiple_inheri.csproj", "{A87BC72E-1736-4691-AC47-105894025D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87BC72E-1736-4691-AC47-105894025D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87BC72E-1736-4691-AC47-105894025D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87BC72E-1736-4691-AC47-105894025D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87BC72E-1736-4691-AC47-105894025D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7BBF5F0-34D8-4C98-8358-A9143904C6E1}
+	EndGlobalSection
+EndGlobal

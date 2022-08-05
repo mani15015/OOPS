@@ -1,0 +1,15 @@
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.csproj.AssemblyReference.cache
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.AssemblyInfoInputs.cache
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.AssemblyInfo.cs
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\bin\Debug\net6.0\Engineer_Clg_Interface.exe
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\bin\Debug\net6.0\Engineer_Clg_Interface.deps.json
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\bin\Debug\net6.0\Engineer_Clg_Interface.runtimeconfig.json
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\bin\Debug\net6.0\Engineer_Clg_Interface.dll
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\bin\Debug\net6.0\Engineer_Clg_Interface.pdb
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.dll
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\refint\Engineer_Clg_Interface.dll
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.pdb
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\Engineer_Clg_Interface.genruntimeconfig.cache
+C:\Users\ManikanthaSugirayyam\Desktop\Visual Studio\Engineer_Clg_Interface\Engineer_Clg_Interface\obj\Debug\net6.0\ref\Engineer_Clg_Interface.dll
